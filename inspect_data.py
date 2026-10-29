@@ -1,0 +1,17 @@
+import pandas as pd
+file_path = "data/raw/india_housing_prices.csv"
+df = pd.read_csv(file_path)
+print("DATASET SHAPE")
+print(df.shape)
+print("\nCOLOUMN NAME")
+print(df.columns.tolist())
+print("\nDATA TYPES")
+print(df.dtypes)
+print("\nMISSING VALUES")
+print(df.isnull().sum())
+print("\nDUPLICATED ROWS")
+print(df.duplicated().sum())
+print("\nFIRST FIVE ROWS")
+print(df.head())
+print("\nNUMERICAL SUMMARY")
+print(df.describe())

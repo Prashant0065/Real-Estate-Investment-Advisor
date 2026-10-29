@@ -1,0 +1,37 @@
+﻿# Python environments
+.venv/
+.venv311/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# MLflow local tracking artifacts
+mlruns/
+mlflow.db
+
+# Generated model artifacts
+
+# Local dataset files (review before publishing)
+data/

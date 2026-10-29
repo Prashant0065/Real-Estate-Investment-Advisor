@@ -1,0 +1,21 @@
+Property_Type,Floor_No,Total_Floors,City,Locality
+Apartment,22,1,Chennai,Locality_84
+Independent House,21,20,Pune,Locality_490
+Villa,3,2,Jaipur,Locality_466
+Apartment,27,1,Durgapur,Locality_246
+Independent House,16,5,Coimbatore,Locality_254
+Independent House,24,4,Bilaspur,Locality_490
+Villa,23,16,New Delhi,Locality_232
+Independent House,9,1,Nagpur,Locality_227
+Independent House,13,4,New Delhi,Locality_287
+Apartment,26,18,Lucknow,Locality_148
+Villa,15,10,Silchar,Locality_265
+Villa,14,8,Dehradun,Locality_50
+Villa,10,5,Pune,Locality_385
+Villa,17,7,Bilaspur,Locality_74
+Apartment,25,1,Gaya,Locality_151
+Independent House,9,5,Ludhiana,Locality_382
+Independent House,14,9,Ahmedabad,Locality_74
+Apartment,15,1,Faridabad,Locality_262
+Villa,29,25,Amritsar,Locality_466
+Apartment,21,4,Chennai,Locality_398
